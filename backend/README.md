@@ -6,7 +6,7 @@ MetaLens is a high-performance, full-stack reviews ecosystem built to aggregate,
 
 ## 🔗 Live Deployments & Documentation
 
-*   **📄 Live API Documentation (Postman)**: [Explore Postman Collection Documentation](https://documenter.getpostman.com/view/YOUR_POSTMAN_DOC_LINK_HERE) 
+*   **📄 Live API Documentation (Postman)**: https://documenter.getpostman.com/view/50839299/2sBXwmSDac
 *   **🚀 Live Backend Production Deployment**: https://meta-glasses-reviews-harshit-pandya.onrender.com/
 *   **🌐 Local Web Dashboard**: http://localhost:5000/
 ---
